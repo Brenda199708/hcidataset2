@@ -1,4 +1,4 @@
-timestamp,Basel_Temperature_ [2m _elevation_corrected],Basel_Wind_ Direction[10 m]
+timestamp,Temperature,Wind
 20200318T0000,11.620529,206.56505
 20200318T0100,11.400529,209.74489
 20200318T0200,10.940529,189.46233
